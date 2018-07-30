@@ -1,5 +1,5 @@
-# cuny2018
 <h1>CUNY 2018 Interactive Journalism</h1>
+<img src="https://media3.giphy.com/media/SF565FdZWkE12/giphy.gif">
 
 <h2>Course Objectives</h2>
 
