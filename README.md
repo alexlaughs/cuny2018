@@ -43,7 +43,7 @@ The course covers fundamental technical skills that will serve as the foundation
 
 Because of the collaborative/workshop nature of this course, I encourage you to come to all class sessions. You do have one day available to you to use for sick days, mental health days, travel, etc. Email me if you want to use it, and work with your group members to catch up on any missed classwork. Any additional sessions missed will result in the loss of a percentage point per day. 
 
-*Technology: *
+*Technology:*
 
 This is a technology-centered course that will require you to have your computers with you during class sessions. Keep your focus on the task at hand and PLEASE don’t open Facebook or Twitter or email or Slack or anything else that will be distracting. 
 
@@ -104,45 +104,41 @@ Grading for the class as a whole will be based on your overall performance, with
 
 <h3>Projects & due dates</h3>
 
-Project 1: Interactive news presentation (10%)
+**Project 1: Interactive news presentation (10%)**
 Due: TBD 
 
 You will choose one class period to present an interactive journalism project from a publication that you’ve found online. No need to prepare a powerpoint or slideshow; just offer critique of the work, talk about what makes this project interesting, and what skills/tools went into creating the package. These presentations should be about 10 minutes long. 
 
-Project 2: HTML/CSS web page (25%)
+**Project 2: HTML/CSS web page (25%)**
 Due: Oct. 14, 10:00 pm (week 6)
-File here
+* [File here](https://docs.google.com/forms/u/2/d/e/1FAIpQLSc4ZwdxefiLLalIImlApMXVIgSsKQ2AhH0afxomGeVCS6sdNQ/viewform?usp=send_form)
 
 Using edited text and images from your Craft of Reporting class, create a page using HTML and style it with CSS. You should have the following elements:
 
-Headline
-A photo 700px wide centered below the headline and byline, with a caption and credit
-News copy (the text)
-About ¼ of the way down, you must have a graphic made of three portraits (each 200px wide), with a credit
-Each portrait must have a quote below it and the name of the person quoted (aligned right at the bottom of photo).
-A related individual tweet embedded in appropriate spots in the text
-At least three links to related information or articles
-You must comment your CSS. What is each line or section accomplishing?
-When the browser window is resized, the content must be responsive.
-Is the folder hierarchy as instructed during the lessons (proper naming convention, index.html, all lowercase, no spaces, etc.)
-
+* Headline
+* A photo 700px wide centered below the headline and byline, with a caption and credit
+* News copy (the text)
+* About ¼ of the way down, you must have a graphic made of three portraits (each 200px wide), with a credit
+* Each portrait must have a quote below it and the name of the person quoted (aligned right at the bottom of photo).
+* A related individual tweet embedded in appropriate spots in the text
+* At least three links to related information or articles
+* You must comment your CSS. What is each line or section accomplishing?
+* When the browser window is resized, the content must be responsive.
+* Is the folder hierarchy as instructed during the lessons (proper naming convention, index.html, all lowercase, no spaces, etc.)
 
 Logistics:
-
 
 Your project folder should be the name of your project slug (one or two words)
 Remember to use proper file names (index.html, all lowercase, etc)
 Have proper folder/file hierarchy
 FTP to your hosting service
 Figure out the URL (web address) for your piece.
-Fill out this form to file the piece.
+Fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSc4ZwdxefiLLalIImlApMXVIgSsKQ2AhH0afxomGeVCS6sdNQ/viewform) to file the piece.
 
-
-
-Project 3: Data chart (25%)
+**Project 3: Data chart (25%)**
 Due dates:
-Pitch here by Nov. 4, 10:00 pm (week 9)
-Submit final assignment here by Nov. 18, 10:00 pm (week 11)
+* [Pitch here](https://docs.google.com/forms/d/e/1FAIpQLSeqpITI45WBRqtS-RXNEZ-YksBhzhIpRYob3ReEDYmBhA6QYQ/viewform) by Nov. 4, 10:00 pm (week 9)
+* [Submit final assignment here](https://docs.google.com/forms/d/e/1FAIpQLSedRpfezcYlHBPvzdvODAjQCcTkFaPVqTiBesT1bW1OUlPdMQ/viewform) by Nov. 18, 10:00 pm (week 11)
 
 Logistics:
 Find a topic you are interested in that involves data and datasets.
