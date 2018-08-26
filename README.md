@@ -1,5 +1,3 @@
-# alexlaughs.github.io
-
 <h1>JOUR71105 - Fundamentals of Interactivity and Data Journalism</h1>
 <h2>Mondays, 6:00 - 8:50 pm, Room 330
 Fall 2018</h2>
@@ -17,7 +15,7 @@ Fall 2018</h2>
 
 Being a journalist is about more than just putting words on a page. This course will help you learn to think about your stories in ways that will make them come alive for you and your audience. And if you can master these skills, you’ll also be WAY more marketable for a job post-graduation ;) 
 
-Course Description:
+*Course Description:*
 
 This three-credit course will introduce you to conceptualizing and producing content across multiple platforms — from Web sites to tablets and mobile devices — by exploring essential concepts, tools and interactive story forms. 
 
@@ -27,46 +25,43 @@ More specifically, this course will introduce you to the basics of HTML/CSS. We'
 
 The course covers fundamental technical skills that will serve as the foundation for your interactive work at the CUNY Graduate School of Journalism.
 
+*By the end of this course, you’ll be able to:*
 
-By the end of this course, you’ll be able to:
+* Produce journalism for the Internet
+* Build basic HTML pages and layouts
+* Manipulate web content design using CSS
+* Use an FTP client to publish content online
+* Find and use data responsibly and effectively
+* Learn the math required to effectively analyze data
+* Produce basic maps and charts that convey information clearly and at a glance
+* Report and produce stories with data and interactivity
+* Craft questions to ensure receive technical guidance from web programming communities
 
+<h3>Business stuff</h3>
 
-Produce journalism for the Internet
-Build basic HTML pages and layouts
-Manipulate web content design using CSS
-Use an FTP client to publish content online
-Find and use data responsibly and effectively
-Learn the math required to effectively analyze data
-Produce basic maps and charts that convey information clearly and at a glance
-Report and produce stories with data and interactivity
-Craft questions to ensure receive technical guidance from web programming communities
-
-Business stuff 
-
-Attendance:
+*Attendance:*
 
 Because of the collaborative/workshop nature of this course, I encourage you to come to all class sessions. You do have one day available to you to use for sick days, mental health days, travel, etc. Email me if you want to use it, and work with your group members to catch up on any missed classwork. Any additional sessions missed will result in the loss of a percentage point per day. 
 
-Technology: 
+*Technology: *
 
 This is a technology-centered course that will require you to have your computers with you during class sessions. Keep your focus on the task at hand and PLEASE don’t open Facebook or Twitter or email or Slack or anything else that will be distracting. 
 
 That being said, keep your phones away unless they specifically pertain to an activity we’re doing. 
 
-Deadlines
+*Deadlines*
 
 Missing a deadline results in an automatic half-grade reduction. Your grade will continue to drop by half a grade for each subsequent day after the deadline until you file your assignment. 
 
 Plan ahead and remember that in journalism: done is better than perfect. It will always be better to hand in something than nothing. If you are having trouble with your assignment let me know immediately, do not wait until it is too late. 
 
-
-Story Guidelines
+*Story Guidelines*
 
 Your work for this class should be your own original reporting. However, if you've done reporting for another class that you'd like to expand on in an interactive project, I encourage you to return to stories you know well.
 
 Every story you produce for our class should include clear source information for any data or images that you did not produce yourself.
 
-Plagiarism and Copyright
+*Plagiarism and Copyright*
 
 It is a serious ethical violation to take any material created by another person and represent it as your own original work. Any such plagiarism will result in serious disciplinary action, possibly including dismissal from the CUNY J-School. Plagiarism may involve copying text from a book or magazine without attributing the source, or lifting words, code, photographs, videos, or other materials from the Internet and attempting to pass them off as your own. Please ask me if you have any questions about how to distinguish between acceptable research and plagiarism.
 
@@ -82,72 +77,32 @@ The exception to this rule is fair use: if your story is about the image itself,
 
 When in doubt: ask.
 
-Diversity
+*Diversity*
 
 It's critical that you learn to include a diverse set of voices in your stories — something that is often glossed over when finding stories in spreadsheets and online sources. 
 
 Look for stories about and voices from communities that are underrepresented.
 
-Grading Rubric:
+*Grading Rubric:*
+
 For all assignments:
 
-
-
-F (0-70)
-C (70-79)
-B (80-89)
-A (90-100)
-Quality/Professionalism
-Assignment is not complete or plagiarized. There is a significant number of spelling/grammar errors. Could not be published. 
-Assignment is completed but could use significant editing. There are multiple spelling/grammar errors. Format or focus of the project is unclear. Is a good start but needs more work to be published. 
-Assignment is executed with skill and subtlety, there are some spelling/grammar errors, and the project could be published with another round of editing. 
-Assignment is executed with skill and subtlety, there are no spelling/grammar errors, and is presented clearly and professionally.The project is ready to be published. 
-Effort/Application
-Work is not complete, and there is no attempt to use the relevant tools assigned. 
-The work misuses the relevant tools. There are technical errors and the vision for the project isn’t quite aligned with the assignment. Work is on time. 
-The work attempts to take appropriate advantage of the relevant tools. There might be technical errors but the vision is right-on. Work is on time and it fulfills the assignment. 
-The work has been prepared with careful thought and attention to detail, and it takes appropriate advantage of the relevant tools. Work is on time and it fulfills the assignment. 
-Journalism
-The work is plagiarized. DON’T DO THIS.  
-The work tells a true story that is reported originally by the student. Sources are appropriate but no clear effort has been made to seek out a diverse set of sources.
-The work tells a true story that is reported originally by the student. Sources are appropriate and are somewhat diverse in age, gender, ethnicity, sexuality, race, and political opinion. 
-The work tells a true, compelling story that is reported originally by the student. Sources are appropriate and diverse in age, gender, ethnicity, sexuality, race, and political opinion. 
-Discussion
-You have not completed the assigned reading/exercises to prepare for discussion. You do not participate in discussion (you’re on your computer or looking at your phone). You are disrespectful of me or your classmates. 
-You are often unprepared. You miss more than one class period without explanation. You are respectful of me and your classmates. 
-You come to class having completed some of the work necessary to participate in discussion. You are somewhat engaged in the discussion. You are respectful of me and your classmates. 
-You come to class having completed the work necessary to participate in discussion. You are engaged in the discussion by both paying attention and participating. You are respectful of me and your classmates. 
-
-
+<img src="https://image.ibb.co/i5Yj7p/Screen_Shot_2018_08_26_at_3_33_35_PM.png">
 
 Assignment Values:
 
 Grading for individual assignments is based on the level of professionalism of the finished work:
 
-A being professional quality work with minimal editing required.
-B being good quality student work.
-C being unsatisfactory work.
-F being atrocious, unacceptable work.
+* A being professional quality work with minimal editing required.
+* B being good quality student work.
+* C being unsatisfactory work.
+* F being atrocious, unacceptable work.
 
 Grading for the class as a whole will be based on your overall performance, with the weights of assignment and other grades as follows:
 
-Assignment
-Percentage Value
-Attendance/participation
-15%
-Interactive news presentation
-10%
-HTML/CSS Web page 
-25%
-Data chart
-25%
-Mapping assignment
-25%
-TOTAL
-100%
+<img src="https://image.ibb.co/ix3TYU/Screen_Shot_2018_08_26_at_3_33_42_PM.png">
 
-
-Projects & due dates 
+<h3>Projects & due dates</h3>
 
 Project 1: Interactive news presentation (10%)
 Due: TBD 
